@@ -49,3 +49,14 @@ docs/
 # Local project files
 .env
 local/
+
+#build files
+build/
+dist/
+*.egg-info/
+*.spec
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.manifest
